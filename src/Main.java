@@ -16,7 +16,7 @@ public class Main {
 
         Student  student1 = new Student();
         student1.setId(1);
-        student1.setFirstName("Gillian");
+        student1.setFirstName("GJayJames");
         student1.setLastName("James");
         student1.setAge(20);
         student1.setIdNumber("63-2281605N05");
